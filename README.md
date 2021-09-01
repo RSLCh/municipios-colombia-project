@@ -8,7 +8,7 @@ Creación de un dataset con información relevante de los municipios de Colombia
 - 📙 Jupyter notebook con el código utilizado.
 - 🐍 Archivo en extensión .py con el código usado en el notebook.
 
-### Caracteristicas del Proyecto
+### Caracteristicas del Proyecto ⚙️
 
 - Uso de librerías Beautiful Soup, Requests, Pandas y Numpy.
 - Manejo de estructura HTML.
